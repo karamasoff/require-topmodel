@@ -1,0 +1,15 @@
+{
+    "name": "require-topmodel",
+    "version": "0.1.0",
+    "main": "lib/angular.js",
+    "ignore": [
+        "**/.*",
+        "node_modules",
+        "bower_components"
+    ],
+    "dependencies": {
+        "angular": "1.*",
+        "lodash": "2.*",
+        "q": "1.*"
+    }
+}
