@@ -1,6 +1,6 @@
 {
     "name": "require-topmodel",
-    "version": "0.1.0",
+    "version": "0.2.2",
     "main": "lib/angular.js",
     "ignore": [
         "**/.*",
