@@ -8,8 +8,9 @@
         "bower_components"
     ],
     "dependencies": {
+        "requirejs": "2.*",
         "angular": "1.*",
-        "lodash": "2.*",
+        "lodash": ">=2.*",
         "q": "1.*"
     }
 }
