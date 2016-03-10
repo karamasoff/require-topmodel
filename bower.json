@@ -1,6 +1,6 @@
 {
     "name": "require-topmodel",
-    "version": "0.4.8",
+    "version": "0.4.9",
     "main": "lib/angular.js",
     "ignore": [
         "**/.*",
@@ -10,7 +10,7 @@
     "dependencies": {
         "requirejs": "2.*",
         "angular": "1.*",
-        "lodash": "3.*",
+        "lodash": "4.*",
         "q": "1.*"
     }
 }
