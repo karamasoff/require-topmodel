@@ -1,0 +1,32 @@
+{
+  "name": "require-topmodel",
+  "version": "0.6.0",
+  "description": "Model injector",
+  "main": "lib/node.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/karamasoff/require-topmodel.git"
+  },
+  "keywords": [
+    "model",
+    "injection",
+    "requirejs",
+    "angular",
+    "node",
+    "isomorphic"
+  ],
+  "dependencies": {
+    "lodash": "4.*",
+    "q": "1.*",
+    "requirejs": "2.2.*"
+  },
+  "author": "Joël Poulin",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/karamasoff/require-topmodel/issues"
+  },
+  "homepage": "https://github.com/karamasoff/require-topmodel#readme"
+}
